@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+xgboost
+scikit-learn
+pyarrow
+openpyxl
+statsmodels
